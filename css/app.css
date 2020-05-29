@@ -205,9 +205,6 @@ a {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 @media (min-width: 576px) {
@@ -232,9 +229,7 @@ a {
 }
 main {
   height: 100vh;
-  background: url("../img/bg1.jpg") center center no-repeat;
-  -webkit-background-size: cover;
-  background-size: cover;
+  background: url("../img/bg1.jpg") center center/cover no-repeat;
   position: relative;
 }
 main:after {
@@ -248,6 +243,7 @@ main:after {
 }
 
 section {
+  transition: 0.2s ease;
   position: absolute;
   left: 0;
   top: 0;
@@ -316,9 +312,7 @@ section.show {
   margin-right: 20px;
 }
 .socials ul li a {
-  text-decoration: none;
   font-size: 40px;
-  color: #d3d3d3;
 }
 .socials .auxiliary {
   margin-bottom: 0;
@@ -373,6 +367,11 @@ h1 {
   color: #d3d3d3;
 }
 
+.main-screen .layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .main-screen p {
   color: #959492;
   font-weight: 600;
@@ -382,7 +381,7 @@ h1 {
   font-weight: 300;
   opacity: 0.7;
 }
-.main-screen .info {
+.main-screen__info {
   position: relative;
   width: 100%;
   padding-right: 160px;
@@ -401,41 +400,41 @@ h1 {
   bottom: 60px;
 }
 
-.works .layout {
-  align-items: flex-start;
-}
 .works__items {
   display: flex;
   flex-wrap: wrap;
 }
-.works__items .item {
-  width: calc(100% / 3 - 20px);
+.works__item {
+  width: calc(100% / 2 - 15px);
   display: block;
   background: rgba(0, 0, 0, 0.6);
-  margin-right: 30px;
-  margin-bottom: 30px;
-  padding: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
   border: 1px solid #eeeeee;
-  text-align: center;
-  color: #d3d3d3;
-  min-height: 400px;
 }
-.works__items .item:nth-child(3n) {
+.works__item:nth-child(2n) {
   margin-right: 0;
 }
-.works__items .item img {
+.works__item .img {
+  height: 300px;
+}
+.works__item .img img {
   display: block;
   width: 100%;
-  height: 200px;
+  height: 100%;
   object-fit: cover;
-  margin-bottom: 20px;
 }
-.works__items .btn-wrap {
+.works__item .info {
+  padding: 15px;
+  text-align: center;
+  color: #d3d3d3;
+}
+.works .btn-wrap {
   width: 100%;
   margin-top: 50px;
   margin-bottom: 50px;
 }
-.works__items .btn-wrap .btn {
+.works .btn-wrap .btn {
   margin: 0 auto;
 }
 
