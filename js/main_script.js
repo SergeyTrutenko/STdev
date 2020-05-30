@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    $('.works').addClass('show');
+    $('.main-screen').addClass('show');
 
     $('#btn_works').click(function () {
         $('.works').addClass('show');
