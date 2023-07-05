@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QhToRD54fqPOy3i3kSHAhGFdtd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="" />
+      <created>1568222003024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568222003024</updated>
+      <workItem from="1568222007854" duration="1508000" />
+      <workItem from="1570960631157" duration="320000" />
+      <workItem from="1571076143992" duration="1000" />
+      <workItem from="1571086292477" duration="606000" />
+      <workItem from="1571086913485" duration="754000" />
+      <workItem from="1571091505378" duration="229000" />
+      <workItem from="1571137768125" duration="3251000" />
+      <workItem from="1571148915516" duration="80000" />
+      <workItem from="1571149004800" duration="9000" />
+      <workItem from="1571149480601" duration="213000" />
+      <workItem from="1571172604990" duration="137000" />
+      <workItem from="1571172751838" duration="354000" />
+      <workItem from="1571173116608" duration="133000" />
+      <workItem from="1571173259516" duration="152000" />
+      <workItem from="1572107112558" duration="235000" />
+      <workItem from="1590261574388" duration="321000" />
+      <workItem from="1590261956852" duration="796000" />
+      <workItem from="1590309403611" duration="1300000" />
+      <workItem from="1590317272427" duration="13468000" />
+      <workItem from="1590336198769" duration="1502000" />
+      <workItem from="1590340274208" duration="4214000" />
+      <workItem from="1590396436008" duration="477000" />
+      <workItem from="1590396959572" duration="7649000" />
+      <workItem from="1590406471774" duration="1410000" />
+      <workItem from="1590413315731" duration="1285000" />
+      <workItem from="1590415923087" duration="2366000" />
+      <workItem from="1590418853856" duration="1897000" />
+      <workItem from="1590420874586" duration="118000" />
+      <workItem from="1590426143659" duration="2591000" />
+      <workItem from="1590432398098" duration="1648000" />
+      <workItem from="1590434105380" duration="70000" />
+      <workItem from="1590434191908" duration="1314000" />
+      <workItem from="1590435777488" duration="985000" />
+      <workItem from="1590508985167" duration="2586000" />
+      <workItem from="1590517324008" duration="10200000" />
+      <workItem from="1590599006247" duration="141000" />
+      <workItem from="1590673844709" duration="3636000" />
+      <workItem from="1590687996687" duration="68000" />
+      <workItem from="1590688361119" duration="1259000" />
+      <workItem from="1590759818869" duration="4413000" />
+      <workItem from="1590768022275" duration="5362000" />
+      <workItem from="1590832421544" duration="1034000" />
+      <workItem from="1590916457989" duration="5000" />
+      <workItem from="1590930910937" duration="15000" />
+      <workItem from="1590930935741" duration="405000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create repository">
+      <created>1590432635650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590432635650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deleted works page">
+      <created>1590434253412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590434253412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deleted works page">
+      <created>1590435497726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590435497726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="few modified">
+      <created>1590765624101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590765624101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upgrade work section">
+      <created>1590774725965</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590774725965</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upgrade work section">
+      <created>1590833449496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590833449496</updated>
+    </task>
+    <task id="LOCAL-00007" summary="load Projects in works section">
+      <created>1590931323661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590931323661</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Create repository" />
+    <MESSAGE value="deleted works page" />
+    <MESSAGE value="few modified" />
+    <MESSAGE value="upgrade work section" />
+    <MESSAGE value="load Projects in works section" />
+    <option name="LAST_COMMIT_MESSAGE" value="load Projects in works section" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1590931323207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590931323207" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1590432431100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590432431100" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590931326284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590931326284" />
+  </component>
+</project>
