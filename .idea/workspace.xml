@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="load Projects in works section" />
+    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="load Projects in works section">
+      <change afterPath="$PROJECT_DIR$/css/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontawesome-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fa-brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fa-brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fa-regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fa-regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fa-solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fa-solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fontawesome-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/fontawesome-all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery-1.11.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery-2.2.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.countdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.inputmask.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.inputmask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/jquery/jquery.maskedinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/app.scss" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +79,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -91,6 +142,9 @@
       <workItem from="1688564056622" duration="304000" />
       <workItem from="1701383612869" duration="5000" />
       <workItem from="1710422377149" duration="49000" />
+      <workItem from="1710593127002" duration="474000" />
+      <workItem from="1710594924330" duration="1272000" />
+      <workItem from="1710596243885" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1590432635650</created>
@@ -155,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688564331328</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="load Projects in works section">
+      <created>1710593183309</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710593183309</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
