@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="" />
+    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="load Projects in works section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1QhToRD54fqPOy3i3kSHAhGFdtd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -21,16 +22,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,6 +88,9 @@
       <workItem from="1590916457989" duration="5000" />
       <workItem from="1590930910937" duration="15000" />
       <workItem from="1590930935741" duration="405000" />
+      <workItem from="1688564056622" duration="304000" />
+      <workItem from="1701383612869" duration="5000" />
+      <workItem from="1710422377149" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1590432635650</created>
@@ -136,11 +141,36 @@
       <option name="project" value="LOCAL" />
       <updated>1590931323661</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="load Projects in works section">
+      <created>1688564239381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688564239381</updated>
+    </task>
+    <task id="LOCAL-00009" summary="load Projects in works section">
+      <created>1688564331328</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688564331328</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -150,19 +180,5 @@
     <MESSAGE value="upgrade work section" />
     <MESSAGE value="load Projects in works section" />
     <option name="LAST_COMMIT_MESSAGE" value="load Projects in works section" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1590931323207">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590931323207" />
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1590432431100">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590432431100" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590931326284">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590931326284" />
   </component>
 </project>
