@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="add main-screen and portfolio section">
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-v4compatibility.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/font-awesome/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="some works">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css.map" afterDir="false" />
@@ -115,7 +105,8 @@
       <workItem from="1710614315957" duration="4398000" />
       <workItem from="1710620150975" duration="628000" />
       <workItem from="1710620813654" duration="62000" />
-      <workItem from="1710807736267" duration="4267000" />
+      <workItem from="1710807736267" duration="4514000" />
+      <workItem from="1710871794417" duration="3797000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1590432635650</created>
@@ -201,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710618732869</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="some works">
+      <created>1710812235611</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710812235611</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +225,7 @@
     <MESSAGE value="load Projects in works section" />
     <MESSAGE value="clear" />
     <MESSAGE value="add main-screen and portfolio section" />
-    <option name="LAST_COMMIT_MESSAGE" value="add main-screen and portfolio section" />
+    <MESSAGE value="some works" />
+    <option name="LAST_COMMIT_MESSAGE" value="some works" />
   </component>
 </project>

@@ -85,35 +85,57 @@ h2{
   }
 }
 
-.contacts-nav{
+.socials-nav{
   position: absolute;
   z-index: 2;
   right: 30px;
   top: 50%;
   transform: translateY(-50%);
 
-  &__item{
-    margin-bottom: 28px;
-
-    &:last-child{
-      margin-bottom: 0;
-    }
+  li{
+    padding: 14px 0;
     a{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      font-size: 14px;
-      border: 1px solid #ffffff;
-      height: 35px;
-      width: 35px;
-      border-radius: 3px;
+      i{
+        display: inline-block;
+        font-size: 14px;
+        color: #00d389;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        text-align: center;
+        border: 1px solid #04563c;
+        border-radius: 3px;
+        transition: .2s;
+        position: relative;
+
+        &:after{
+          position: absolute;
+          content: "";
+          height: 100%;
+          width: 100%;
+          background: #009D66;
+          left: 0;
+          top: 0;
+          z-index: -1;
+          border-radius: 3px;
+          transform: scale(0);
+          transition: .2s;
+        }
+
+        &:hover{
+          color: white;
+          &:after{
+            transform: scale(1);
+          }
+        }
+      }
     }
   }
 }
 
-.works{
+.portfolio{
   padding: 50px 0 100px;
+  height: 100vh;
   &__items{
     display: flex;
     flex-wrap: wrap;

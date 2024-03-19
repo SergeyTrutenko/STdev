@@ -82,40 +82,59 @@ h2 {
   padding: 10px;
 }
 
-.contacts-nav {
+.socials-nav {
   position: absolute;
   z-index: 2;
   right: 30px;
   top: 50%;
   transform: translateY(-50%);
 }
-.contacts-nav__item {
-  margin-bottom: 28px;
+.socials-nav li {
+  padding: 14px 0;
 }
-.contacts-nav__item:last-child {
-  margin-bottom: 0;
-}
-.contacts-nav__item a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
+.socials-nav li a i {
+  display: inline-block;
   font-size: 14px;
-  border: 1px solid #ffffff;
+  color: #00d389;
   height: 35px;
   width: 35px;
+  line-height: 35px;
+  text-align: center;
+  border: 1px solid #04563c;
   border-radius: 3px;
+  transition: 0.2s;
+  position: relative;
+}
+.socials-nav li a i:after {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: #009D66;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  border-radius: 3px;
+  transform: scale(0);
+  transition: 0.2s;
+}
+.socials-nav li a i:hover {
+  color: white;
+}
+.socials-nav li a i:hover:after {
+  transform: scale(1);
 }
 
-.works {
+.portfolio {
   padding: 50px 0 100px;
+  height: 100vh;
 }
-.works__items {
+.portfolio__items {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
-.works__item {
+.portfolio__item {
   flex-basis: calc(33.3333333333% - 30px);
   margin: 15px;
   border: 1px solid #000;
