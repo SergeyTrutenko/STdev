@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="socials">
+    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,8 @@
       <workItem from="1710620813654" duration="62000" />
       <workItem from="1710807736267" duration="4514000" />
       <workItem from="1710871794417" duration="3884000" />
-      <workItem from="1710877257800" duration="1063000" />
+      <workItem from="1710877257800" duration="1301000" />
+      <workItem from="1710965114255" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1590432635650</created>
@@ -206,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710875702755</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="colors">
+      <created>1710878561408</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710878561408</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +243,7 @@
     <MESSAGE value="add main-screen and portfolio section" />
     <MESSAGE value="some works" />
     <MESSAGE value="socials" />
-    <option name="LAST_COMMIT_MESSAGE" value="socials" />
+    <MESSAGE value="colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="colors" />
   </component>
 </project>
