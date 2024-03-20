@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="colors">
+    <list default="true" id="1e5da75f-5413-4dba-9de1-7538cc48cf81" name="Default Changelist" comment="cards">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css.map" afterDir="false" />
@@ -108,7 +108,8 @@
       <workItem from="1710807736267" duration="4514000" />
       <workItem from="1710871794417" duration="3884000" />
       <workItem from="1710877257800" duration="1301000" />
-      <workItem from="1710965114255" duration="980000" />
+      <workItem from="1710965114255" duration="1026000" />
+      <workItem from="1710974893650" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="Create repository">
       <created>1590432635650</created>
@@ -215,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710878561408</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="cards">
+      <created>1710966139757</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710966139757</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +252,7 @@
     <MESSAGE value="some works" />
     <MESSAGE value="socials" />
     <MESSAGE value="colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="colors" />
+    <MESSAGE value="cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="cards" />
   </component>
 </project>
